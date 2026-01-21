@@ -3,7 +3,7 @@
 export const LightTheme = {
   colors: {
     // Counter app theme colors
-    primary: '#2196F3',
+    primary: '#F44336',
     secondary: '#FF5722',
     background: '#F5F7FA',
     surface: '#FFFFFF',
@@ -16,7 +16,7 @@ export const LightTheme = {
     info: '#2196F3',
     // Modern gradient presets for premium look
     gradient: {
-      primary: ['#2196F3', '#1976D2'],
+      primary: ['#F44336', '#D32F2F'],
       secondary: ['#FF5722', '#E64A19'],
       success: ['#11998e', '#38ef7d'],
       info: ['#4facfe', '#00f2fe'],
